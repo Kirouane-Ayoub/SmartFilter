@@ -13,7 +13,7 @@
 1 - Clone the repository and run the following command:
 
 ```bash
-git clone https://github.com/ayoubkirouane/SmartFilter.git
+git clone https://github.com/Kirouane-Ayoub/SmartFilter.git
 cd SmartFilter
 ```
 
