@@ -14,9 +14,6 @@ def llm_filter(ds_name, split, target_column):
         ds_name (str): The name of the dataset.
         split (str): The split of the dataset to use.
         target_column (str): The column containing the texts to filter.
-
-    Returns:
-        pandas.DataFrame: A dataframe containing the original texts, their classifications, and any errors.
     """
     ds = load_dataset(ds_name, split=split)
     text_list = ds[target_column]
@@ -43,8 +40,6 @@ def llm_filter(ds_name, split, target_column):
     final_df.to_csv(
         f"{ds_name.rsplit('/')[-1]}-{target_column}-Filtered.csv", index=False
     )
-
-    return final_df
 
 
 def main():
