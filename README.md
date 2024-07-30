@@ -2,9 +2,9 @@
 
 
 ```
-╔═╗┌┬┐┌─┐┬─┐┌┬┐  ╔═╗┬┬ ┌┬┐┌─┐┬─┐
-╚═╗│││├─┤├┬┘ │───╠╣ ││  │ ├┤ ├┬┘
-╚═╝┴ ┴┴ ┴┴└─ ┴   ╚  ┴┴─┘┴ └─┘┴└─
+╔═╗┌┬┐┌─┐┬─┐┌┬┐  ╔═╗┬ ┬ ┌┬┐┌─┐┬─┐
+╚═╗│││├─┤├┬┘ │───╠╣ │ │  │ ├┤ ├┬┘
+╚═╝┴ ┴┴ ┴┴└─ ┴   ╚  ┴ ┴─┘┴ └─┘┴└─
 ```                                                                                       
 **SmartFilter** A tool for efficiently filtering and classifying text data from datasets. It uses advanced language models to identify and categorize text based on specified criteria .
 
