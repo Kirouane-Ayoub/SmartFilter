@@ -8,6 +8,11 @@
 ```                                                                                       
 **SmartFilter** A tool for efficiently filtering and classifying text data from datasets. It uses advanced language models to identify and categorize text based on specified criteria .
 
+For More Information About this Project Check My Project Guide .
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ayoubkirouane3/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ayoubkirouane3/3" alt="SmartFilter"> 
+
+
 ## Installation
 
 1 - Clone the repository and run the following command:
